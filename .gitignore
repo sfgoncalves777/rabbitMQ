@@ -1,0 +1,12 @@
+ms-publisher/node_modules
+ms-publisher/.env
+
+ms-consumer-1/node_modules
+ms-consumer-1/.env
+
+
+ms-consumer-2/node_modules
+ms-consumer-2/.env
+
+ms-consumer-3/node_modules
+ms-consumer-3/.env
