@@ -15,7 +15,7 @@ Antes de executar o projeto, certifique-se de ter o seguinte instalado em sua m�
 - Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/sfgoncalves777/rabbitMQ.git
 ```
 
 - Navegue até os diretórios:
